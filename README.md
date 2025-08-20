@@ -1,6 +1,6 @@
-# Planet Explorer
+# Star Wars
 
-Planet Explorer is an iOS application that provides information about various planets. The app fetches data from a remote API and stores it locally using Core Data.
+Star Wars is an iOS application that provides information about various planets. The app fetches data from a remote API and stores it locally using Core Data.
 
 ## Features
 
@@ -27,4 +27,26 @@ The app follows the MVVM (Model-View-ViewModel) architecture pattern, which help
 
 ## Installation
 
-TBD
+### Clone the repository
+```
+git clone https://github.com/Bagya921230/StarWars.git
+cd StarWars
+```
+
+### Open the project
+- **Open PlanetExplorer.xcodeproj in Xcode.
+
+### Build the project
+- **Select the desired build target (Device, Simulator)
+- **If running on a device ensure the development team is selected in Signing & Capabilities section.
+
+###Run the project
+- **Click the Run button in the top left corner of Xcode or press Cmd + R.
+
+## Requirements
+- **iOS 15.6+
+- **XCode 13.3+
+- **Swift 5+
+
+## Contact
+- **For futher details, please contact bngunawardana@gmail.com
