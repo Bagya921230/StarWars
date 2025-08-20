@@ -1,0 +1,10 @@
+
+//Home
+"home_title" = "Explore Planets";
+"search_label" = "Search Planets";
+"error_label" = "Error";
+"ok_label" = "OK";
+
+//Detail
+"orbitalPeriod_label" = "Orbital Period";
+"gravity_label" = "Gravity";
