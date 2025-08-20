@@ -34,19 +34,19 @@ cd StarWars
 ```
 
 ### Open the project
-- **Open PlanetExplorer.xcodeproj in Xcode.
+Open PlanetExplorer.xcodeproj in Xcode.
 
 ### Build the project
-- **Select the desired build target (Device, Simulator)
-- **If running on a device ensure the development team is selected in Signing & Capabilities section.
+- Select the desired build target (Device, Simulator)
+- If running on a device ensure the development team is selected in Signing & Capabilities section.
 
-###Run the project
-- **Click the Run button in the top left corner of Xcode or press Cmd + R.
+### Run the project
+Click the Run button in the top left corner of Xcode or press Cmd + R.
 
 ## Requirements
-- **iOS 15.6+
-- **XCode 13.3+
-- **Swift 5+
+- iOS 15.6+
+- XCode 13.3+
+- Swift 5+
 
 ## Contact
-- **For futher details, please contact bngunawardana@gmail.com
+For futher details, please contact bngunawardana@gmail.com
